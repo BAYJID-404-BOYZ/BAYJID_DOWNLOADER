@@ -1,4 +1,4 @@
-const { alldown } = require("bayjid-videos-downloader");
+const { alldown } = require("aryan-videos-downloader");
 const TelegramBot = require('node-telegram-bot-api');
 const axios = require('axios');
 
